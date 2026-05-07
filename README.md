@@ -9,10 +9,6 @@
 
 I am a **Computer Science** student majoring in **Cyber Security**, currently in the third year. I am expanding my knowledge in both back-end and cyber security. My goal is to strengthen my cyber security skills and explore new technologies. I love to learn and build something new, creative and funny.
 
-- 📚 I’m currently learning ...
-  - *Java 21*
-  - *Full-Stack Web Development (node.js)*
-  - *DFIR*
 - 🚀 I’m eager to join new projects.
 - ✔ Feel free to ask me anything!
 - Outside tech, I enjoy 🎮 playing video games, 🍿 watching movie series, and 🏀 playing basketball.
