@@ -7,7 +7,7 @@
 
 <img align="right" width=200px alt="Unicorn" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWJ5YzY4cHFvbWU1dHJ0aGJqNjlhdTlhemR1eGR2ZXdqdjhjd2Z4MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ov9jVajUykLpFTMQM/giphy.gif"/>
 
-I am a **Computer Science** student majoring in **Cyber Security**, currently in the third year. I am expanding my knowledge in both back-end and cyber security. My goal is to strengthen my cyber security skills and explore new technologies. I love to learn and build something new, creative and funny.
+— **Computer Science** student focusing on software engineering; always building, experimenting, and learning by doing. Recently active in exploring AI/ML to broaden technical horizons while turning curiosity into hands-on practice. Known for real team management experience, coordinating people and projects to get things done.
 
 - 🚀 I’m eager to join new projects.
 - ✔ Feel free to ask me anything!
